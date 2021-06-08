@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Floor
+  - Block
+  - Trap
+  - Crate
+  - Dirt
+  - Empty
+  - Dynamite
+  - Oil
+  - Wall
+  - Explosion
+  - Brick
+  - Rock
+  - Goal
+  - WallSwitch
+  - Banana
+  - IronToDirt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - TextLayer
+  - VictoryScreenLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 1971645253
+    locked: 0
+  - name: Blocks
+    uniqueID: 1172393785
+    locked: 0
+  - name: Damage
+    uniqueID: 4004721887
+    locked: 0
+  - name: UI
+    uniqueID: 1635978717
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3603534017
+    locked: 0
